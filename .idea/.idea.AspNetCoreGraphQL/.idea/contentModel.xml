@@ -3,7 +3,9 @@
   <component name="ContentModelStore">
     <e p="$USER_HOME$/.gitignore_global" t="IncludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p=".git/info/exclude" t="IncludeRecursive" />
       <e p="AspNetCoreGraphQL" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="AspNetCoreGraphQL.csproj" t="IncludeRecursive" />
